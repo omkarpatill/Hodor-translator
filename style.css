@@ -1,0 +1,48 @@
+
+h1{
+    text-align: center;
+}
+
+.container{
+    width: 60%;
+    display: block;
+    margin: auto;
+}
+
+
+
+#txt-input {
+    width:100%;
+    height: 10vh;
+    padding: 1rem;
+    display:block;
+    margin:auto;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 1rem;
+    
+}
+
+#btn-translate {
+    display: block;
+    padding: 0.5rem 2rem;
+    margin: auto;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 1rem;
+
+    
+    
+}
+
+#txt-output {
+    border: 1px solid black;
+    height: 10vh;
+    width: 100%;
+    padding:1rem;
+    margin:auto;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 1rem;
+    background-color: white;
+}
